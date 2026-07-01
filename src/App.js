@@ -50,7 +50,7 @@ function App() {
             marginBottom: "30px",
           }}
         >
-          ⚛ React Hooks Demo
+          ⚛ React Hooks Dashboard
         </h1>
 
         {/* useState */}
